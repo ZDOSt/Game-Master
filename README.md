@@ -1,5 +1,11 @@
 A SillyTavern Preset where the LLM acts as the Game/Dungeon Master, and you are the Player. The result of weeks of writing and rewriting rules over and over until I was satisfied. Also my very first contribution to the community. 
-NOTE: This preset uses Marinara Spaghetti's layout as a base. It will look familiar. Full credits at the end :) 
+NOTE: This preset uses Marinara Spaghetti's layout as a base. It will look familiar. Full credits at the end :)
+
+SETTINGS: 
+Tested With: Sonnet, Opus
+Prompt Pre-Processing: None
+Reasoning Formatting: <think> / </think> 
+Start Reply With: <think> (Do not show in chat)
 
 PRESET: HOW IT WORKS
 1. You send a message.
@@ -46,6 +52,8 @@ NEGATIVES:
 2. Generated message + Scene tracker will consume a lot of tokens. Disable Scene Tracker if you have another solution.  
 3. It is certainly NOT perfect. LLMs are dumb things... IF the LLM makes a mistake, correct it right away. If you allow one mistake, LLM will keep doing it.
 
+IMPORTANT: This is a project tailored specifically for my own use and preferences. Some tweaking might be needed to get it to work with other models, or with different prompt pre-processing settings. Keep in mind that the preset, CoT, and Lorebook are meant to work as one cohesive unit. 
+
 CREDITS: 
 Marinara: For her preset which I used for a long time until I decided to work on this. I use her layout as a base.
 Celia: The name generation prompt in her preset was the inspiration for the one I am using here, which I modified and expanded to be much more reliable.
@@ -54,6 +62,3 @@ Future-Investment303 on Reddit: A post that they put up for random event generat
 Did I forget anyone? Let me know :) 
 
 Here's hoping that all the weeks I spent on this gives you a fun roleplay :) 
-
-
-
