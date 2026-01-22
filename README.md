@@ -21,7 +21,10 @@ Repeated back to back shallow actions... can actually make NPCs dislike you.
 2. Mechanics: A... very simplistic, yet highly condensed d20 ruleset. This is narrative-focused: There are no experience points, no HP, no skill points. There are four stats (for the sake of deciding outcomes), a single dice roll (d20), and some difficulty classes for environmental challenges. The goal was simple: To add a degree of unpredictability to roleplay.
 3. Random Event Engine: Simply put... this will roll some dice in the background to decide whether a curveball will come your way. Most of the time it will do nothing (low chance), and narration will continue normally.
 4. Character Creation: A crude character creator compatible with all of the above. This will roll some stats for you, and generate a completely random character. Crude is an understatement. It works, but I intend to make this better at some point. 
-5. Game Start: Simply an instruction for the first initial scene. Personally, I like "isekai" or "reincarnation" stories, so this one is based off of that. 
+5. Game Start: Simply an instruction for the first initial scene. Personally, I like "isekai" or "reincarnation" stories, so this one is based off of that.
+
+INCLUDED CHARACTER: 
+1. Nothing special. An empty character with an initial message to get you started creating your character. 
 
 WHAT TO EXPECT: 
 1. Fairly good, almost slop-free writing. This preset targets not a few phrases, but the behaviors that cause crappy writing in the first place. Metaphors, hyperbole, simile, personification, are expressly banned and rarely make their way into a response. Blushing, reddening, eye darkening, flickering and... BS that you can't really see should happen much less often than usual, if at all. Scents/air taste (ozone, anyone? Air tastes like what?) must meet very strict guidelines for it to show up at all. The ENTIRE premise of this preset is: Show what can be PERCEIVED through the senses. 
@@ -36,7 +39,7 @@ WHAT TO EXPECT:
 DON'T WANT MECHANICS? For general roleplay, do the following: 
 1. Deactivate Ability Integration, NO Meta, Scene Tracker
 2. Delete STEP 3 from CoT, and adjust numbering on the rest. Deactivate Mechanics lorebook entry. 
-3. If you want to also remove Random Event Generator and Relationship Engine, delete STEP 4 and 5 in CoT, adjust numbering, and deactivate corresponding entries in Lorebook. 
+3. If you want to also remove Random Event Generator and Relationship Engine, delete STEP 4 and 5 in CoT, adjust numbering, and deactivate corresponding entries in Lorebook.
 
 NEGATIVES: 
 1. This preset + lorebook will take around 10K tokens. It's about as short as I can make it right now, considering everything it achieves.
@@ -44,13 +47,11 @@ NEGATIVES:
 3. It is certainly NOT perfect. LLMs are dumb things... IF the LLM makes a mistake, correct it right away. If you allow one mistake, LLM will keep doing it.
 
 CREDITS: 
-Marinara: For her preset. I use her layout as a base, though I believe none of her original prompts remain. 
+Marinara: For her preset which I used for a long time until I decided to work on this. I use her layout as a base.
 Celia: The name generation prompt in her preset was the inspiration for the one I am using here, which I modified and expanded to be much more reliable.
 Kazuma: Inspiration for the CoT. While the current CoT is entirely my own work, I wouldn't have thought of it if I didn't see it there first. 
 Future-Investment303 on Reddit: A post that they put up for random event generation was the inspiration for my own (albeit mine is... again, modified. A lot) 
 Did I forget anyone? Let me know :) 
-
-Everything else (mechanics, NPC disposition, etc) is my own work. 
 
 Here's hoping that all the weeks I spent on this gives you a fun roleplay :) 
 
