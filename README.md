@@ -24,8 +24,35 @@ Repeated back to back shallow actions... can actually make NPCs dislike you.
 5. Game Start: Simply an instruction for the first initial scene. Personally, I like "isekai" or "reincarnation" stories, so this one is based off of that. 
 
 WHAT TO EXPECT: 
-- Fairly good, almost slop-free writing. This preset targets not a few phrases, but the behaviors that cause crappy writing in the first place. Metaphors, hyperbole, simile, personification, are expressly banned and rarely make their way into a response. Blushing, reddening, eye darkening, flickering and... BS that you can't really see should happen much less often than usual, if at all. Scents/air taste (ozone, anyone? Air tastes like what?) must meet very strict guidelines for it to show up at all. The ENTIRE premise of this preset is: Show what can be PERCEIVED through the senses. 
-- NPCs that judge you based on appearance, and how you act or talk. They won't jump into your arms the moment you say something nice, and might even grow to hate you.  
-- Your actions, and dialogue can have consequences, and your success is not guaranteed (mechanics). 
+1. Fairly good, almost slop-free writing. This preset targets not a few phrases, but the behaviors that cause crappy writing in the first place. Metaphors, hyperbole, simile, personification, are expressly banned and rarely make their way into a response. Blushing, reddening, eye darkening, flickering and... BS that you can't really see should happen much less often than usual, if at all. Scents/air taste (ozone, anyone? Air tastes like what?) must meet very strict guidelines for it to show up at all. The ENTIRE premise of this preset is: Show what can be PERCEIVED through the senses. 
+2. NPCs that judge you based on appearance, and how you act or talk. They won't jump into your arms the moment you say something nice, and might even grow to hate you.
+3. NPCs whose demeanor can change over time. Just because they like you now... doesn't mean they will later if you screw up.
+4. Your actions can have consequences, and your success is not guaranteed (mechanics).
+5. Unique Names! Elaras, Lyras, Miras, and Voss... BANNED. LLM will actively generate new names for locations/characters when needed.
+6. Information stays hidden until revealed. And YES, this includes character names too! You will get things like "the guard" or "the innkeeper". Once their names are learned, then you will see them in chat.
+7. A scene tracker that tracks relationship status, and... other information. If you use Marinara's tracker, you could disable this and save some tokens. You will have to modify the settings to make it compatible with this. 
+8. Maybe more that I am forgetting?  
+
+DON'T WANT MECHANICS? For general roleplay, do the following: 
+1. Deactivate Ability Integration, NO Meta, Scene Tracker
+2. Delete STEP 3 from CoT, and adjust numbering on the rest. Deactivate Mechanics lorebook entry. 
+3. If you want to also remove Random Event Generator and Relationship Engine, delete STEP 4 and 5 in CoT, adjust numbering, and deactivate corresponding entries in Lorebook. 
+
+NEGATIVES: 
+1. This preset + lorebook will take around 10K tokens. It's about as short as I can make it right now, considering everything it achieves.
+2. Generated message + Scene tracker will consume a lot of tokens. Disable Scene Tracker if you have another solution.  
+3. It is certainly NOT perfect. LLMs are dumb things... IF the LLM makes a mistake, correct it right away. If you allow one mistake, LLM will keep doing it.
+
+CREDITS: 
+Marinara: For her preset. I use her layout as a base, though I believe none of her original prompts remain. 
+Celia: The name generation prompt in her preset was the inspiration for the one I am using here, which I modified and expanded to be much more reliable.
+Kazuma: Inspiration for the CoT. While the current CoT is entirely my own work, I wouldn't have thought of it if I didn't see it there first. 
+Future-Investment303 on Reddit: A post that they put up for random event generation was the inspiration for my own (albeit mine is... again, modified. A lot) 
+Did I forget anyone? Let me know :) 
+
+Everything else (mechanics, NPC disposition, etc) is my own work. 
+
+Here's hoping that all the weeks I spent on this gives you a fun roleplay :) 
+
 
 
