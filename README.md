@@ -4,8 +4,8 @@ NOTE: This preset uses Marinara Spaghetti's layout as a base. It will look famil
 SETTINGS: 
 Tested With: Sonnet, Opus
 Prompt Pre-Processing: None
-Reasoning Formatting: <think> / </think> 
-Start Reply With: <think> (Do not show in chat)
+Reasoning Formatting: DeepSeek
+Start Reply With: //<think> (Do not show in chat)
 
 PRESET: HOW IT WORKS
 1. You send a message.
