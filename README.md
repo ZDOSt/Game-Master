@@ -1,12 +1,6 @@
 A SillyTavern Preset where the LLM acts as the Game/Dungeon Master, and you are the Player. The result of weeks of writing and rewriting rules over and over until I was satisfied. Also my very first contribution to the community. 
 NOTE: This preset uses Marinara Spaghetti's layout as a base. It will look familiar. Full credits at the end :)
 
-SETTINGS: 
-Tested With: Sonnet, Opus
-Prompt Pre-Processing: None
-Reasoning Formatting: DeepSeek
-Start Reply With: //<think> (Do not show in chat)
-
 PRESET: HOW IT WORKS
 1. You send a message.
 2. Custom CoT begins, where: 
