@@ -52,7 +52,10 @@ NEGATIVES:
 2. Generated message + Scene tracker will consume a lot of tokens. Disable Scene Tracker if you have another solution.  
 3. It is certainly NOT perfect. LLMs are dumb things... IF the LLM makes a mistake, correct it right away. If you allow one mistake, LLM will keep doing it.
 
-IMPORTANT: This is a project tailored specifically for my own use and preferences. Some tweaking might be needed to get it to work with other models, or with different prompt pre-processing settings. Keep in mind that the preset, CoT, and Lorebook are meant to work as one cohesive unit. 
+IMPORTANT: This is a project tailored specifically for my own use and preferences. Some tweaking might be needed to get it to work with other models, or with different prompt pre-processing settings. Keep in mind that the preset, CoT, and Lorebook are meant to work as one cohesive unit.
+
+RECOMMENDATION: 
+Keep your context size low, to prevent hallucination. Personally, I use Timeline Memory + Vecthare and only keep 50-75 messages active at a time. LLMs can get really dumb when the context is too large.
 
 CREDITS: 
 Marinara: For her preset which I used for a long time until I decided to work on this. I use her layout as a base.
