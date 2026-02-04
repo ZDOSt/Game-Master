@@ -6,10 +6,10 @@ PRESET: HOW IT WORKS
 2. Custom CoT begins, where: 
    - LLM checks scene state, relevant history, who witnessed it, and whether present characters know it or not
    - Contextually determines if mechanics are necessary. IF YES: Runs mechanics from Lorebook to determine success/failure. (this actually changes narration afterwards depending on results)
-   - Runs some checks from Lorebook to set initial NPC demeanor towards user (if new on scene) or check current NPCs. This step will also change demeanor based on user actions/dialogue. (prevents NPCs from falling in love with you instantly)
-   - Runs a "Random Event Generator" to determine if a plot twist takes place (10% chance). 
-   - NPC internal thoughts and planned response to user.
+   - Runs some checks from Lorebook to set initial NPC demeanor towards user. Checks for pre-existing history (for pre-made characters), first meetings (for new characters), or revise currently known characters. This step will also change demeanor based on user actions/dialogue. (prevents NPCs from falling in love with you instantly)
+   - Runs a "Random Event Generator" to determine if a plot twist takes place (20% chance). 
    - Pre-flight check: Rule reinforcement. Here, LLM is forced to fill in the blanks and recall rules.
+   - 
 3. LLM narrates, according to pre-established results/rules in preceding CoT.
 
 LOREBOOK ENTRIES:
