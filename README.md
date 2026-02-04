@@ -52,10 +52,14 @@ RECOMMENDATION:
 Keep your context size low, to prevent hallucination. Personally, I use Timeline Memory + Vecthare and only keep 50-75 messages active at a time. LLMs can get really dumb when the context is too large.
 
 CREDITS: 
-Marinara: For her preset which I used for a long time until I decided to work on this. I use her layout as a base.
-Celia: The name generation prompt in her preset was the inspiration for the one I am using here, which I modified and expanded to be much more reliable.
-Kazuma: Inspiration for the CoT. While the current CoT is entirely my own work, I wouldn't have thought of it if I didn't see it there first. 
-Future-Investment303 on Reddit: A post that they put up for random event generation was the inspiration for my own (albeit mine is... again, modified. A lot) 
-Did I forget anyone? Let me know :) 
+- Marinara: For her preset which I used for a long time until I decided to work on this. I use her layout as a base.
+  
+- Celia: The name generation prompt in her preset was the inspiration for the one I am using here, which I modified and expanded to be much more reliable.
+  
+- Kazuma: Inspiration for the CoT. While the current CoT is entirely my own work, I wouldn't have thought of it if I didn't see it there first.
+  
+- Future-Investment303 on Reddit: A post that they put up for random event generation was the inspiration for my own (albeit mine is... again, modified. A lot)
+  
+- Did I forget anyone? Let me know :) 
 
 Here's hoping that all the weeks I spent on this gives you a fun roleplay :) 
